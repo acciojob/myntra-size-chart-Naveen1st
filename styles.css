@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.thead{
+    background-color: brown;
+    color:white;
+    font-size: 15px;
+    padding: 5px;
+}
